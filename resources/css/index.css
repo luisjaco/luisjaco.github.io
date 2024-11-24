@@ -1,0 +1,9 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    background-color: forestgreen;
+    opacity: .8;
+    width: 200px;
+}
